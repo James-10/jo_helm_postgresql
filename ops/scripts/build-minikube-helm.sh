@@ -1,0 +1,1 @@
+minikube start --memory=2g cpus=2
